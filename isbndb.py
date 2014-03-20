@@ -24,7 +24,7 @@ import urllib, yaml
 
 returnFormat = 'yaml' 
 
-key = #enter key here: you have to create an account with isbndb.com to get one of these ##'VXKLG3EP'
+key = #enter key here: you have to create an account with isbndb.com to get one of these 
 
 def Pull(isbn=9780679428510):
     """pulls book information from ISBNDB"""
