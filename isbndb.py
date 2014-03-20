@@ -53,5 +53,5 @@ __all__ = ['Pull', 'Cull', 'returnFormat', 'key']
 
 # Uncomment the following lines to make this callable from the CLI
 #
-entry = Pull(raw_input("What is the ISBN of the book that you would like to look up? "))
-print Cull(entry)
+#entry = Pull(raw_input("What is the ISBN of the book that you would like to look up? "))
+#print Cull(entry)
